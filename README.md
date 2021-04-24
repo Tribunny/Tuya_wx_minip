@@ -1,7 +1,9 @@
+@@ -1,75 +0,0 @@
 ## This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
 
 ## Panel img:
-<img src="https://github.com/Tribunny/Tuya_wx_minip/blob/main/image/%E9%9D%A2%E6%9D%BF.png?raw=true">
+<img src="https://github.com/Tribunny/Tuya_wx_minip/blob/main/OFF.png?raw=true">
+<img src="https://github.com/Tribunny/Tuya_wx_minip/blob/main/ON.png?raw=true">
 
 ## Note: This repository is inherited from the old Tuya Github repository: xxxxxx, which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this tutorial: https://github.com/TuyaInc/tuya-weapp-demo
 ## An overview of the
