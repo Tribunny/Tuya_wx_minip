@@ -47,7 +47,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.12.0",
   "appid": "wx466b1788f8117aec",
-  "projectname": "minicode-1",
+  "projectname": "Tuya_wx_minip",
   "debugOptions": {
     "hidedInDevtools": []
   },

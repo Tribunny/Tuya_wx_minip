@@ -1,8 +1,10 @@
 {
   "usingComponents": {
+    "van-icon": "@vant/weapp/icon/index",
     "navbar": "../../../components/t_navbar/index",
-    "toast": "../../../components/t_toast/index"
+    "Boolean": "./components/Boolean/index",
+    "Enum": "./components/Enum/index",
+    "Integer": "./components/Integer/index"
   },
-  "disableScroll":true
+  "navigationStyle": "custom"
 }
-
